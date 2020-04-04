@@ -13,6 +13,7 @@ function gen() {
   var value = $('[name=box]').val();
   var aa = '';
 // test2
+// test
 if (value % 2 == 0){
     for(i = 0; i < value; i++) {
         for(j = 0; j <= i; j++){
